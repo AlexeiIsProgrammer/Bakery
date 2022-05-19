@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.598,D:\OneDrive\Рабочий стол\ТРПО\Project12PCH1.h=D:\Programs on Builder c++\Project12PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,D:\OneDrive\Рабочий стол\ТРПО\TRPO.dfm=D:\Programs on Builder c++\Unit15.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,=D:\Programs on Builder c++\Project12PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,=D:\Programs on Builder c++\Project12PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,=D:\Programs on Builder c++\Project12PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,D:\OneDrive\Рабочий стол\ТРПО\AddStudent.cpp=D:\OneDrive\Рабочий стол\ТРПО\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,D:\OneDrive\Рабочий стол\ТРПО\Unit1.cpp=D:\OneDrive\Рабочий стол\ТРПО\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,=D:\OneDrive\Рабочий стол\ТРПО\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,=D:\Programs on Builder c++\Unit15.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,=D:\Programs on Builder c++\Unit15.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,=D:\Programs on Builder c++\Unit15.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,D:\OneDrive\Рабочий стол\ТРПО\AddStudent.h=D:\OneDrive\Рабочий стол\ТРПО\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,D:\OneDrive\Рабочий стол\ТРПО\StudentInfo.cpp=D:\OneDrive\Рабочий стол\ТРПО\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,D:\OneDrive\Рабочий стол\ТРПО\Unit1.dfm=D:\OneDrive\Рабочий стол\ТРПО\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,=D:\OneDrive\Рабочий стол\ТРПО\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,D:\OneDrive\Рабочий стол\ТРПО\TRPO.cpp=D:\Programs on Builder c++\Unit15.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,=D:\OneDrive\Рабочий стол\ТРПО\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,D:\OneDrive\Рабочий стол\ТРПО\StudentInfo.dfm=D:\OneDrive\Рабочий стол\ТРПО\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,D:\OneDrive\Рабочий стол\ТРПО\Project12.cbproj=D:\Programs on Builder c++\Project12.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,D:\OneDrive\Рабочий стол\ТРПО\TRPO.h=D:\Programs on Builder c++\Unit15.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,D:\OneDrive\Рабочий стол\ТРПО\AddStudent.dfm=D:\OneDrive\Рабочий стол\ТРПО\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,D:\OneDrive\Рабочий стол\ТРПО\StudentInfo.h=D:\OneDrive\Рабочий стол\ТРПО\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,D:\OneDrive\Рабочий стол\ТРПО\Unit1.h=D:\OneDrive\Рабочий стол\ТРПО\main.h</Transaction>
+  </Transactions>
+</BorlandProject>
